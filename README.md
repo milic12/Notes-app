@@ -14,6 +14,9 @@ in termial run:
 ```bash
 cd .\notesapp.client\
 ```
+```bash
+npm install
+```
 then
 ```bash
  npm run dev
